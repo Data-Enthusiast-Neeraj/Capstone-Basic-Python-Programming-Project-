@@ -1,6 +1,6 @@
 ![2022-07-19-Melhores-cursos-de-Python](https://github.com/user-attachments/assets/454f2e3c-1358-4c88-be05-8b6b30fb4dc9)
 
-![highlighted_query_error](https://github.com/user-attachments/assets/35ea5177-8a73-448d-ad01-d79d7d9f81a5)
+
 
 
 # Capstone-Basic-Python-Programming-Project- 
