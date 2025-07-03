@@ -16,7 +16,7 @@ Enhanced my understanding of algorithmic thinking and logical flow.
 Strengthened my problem-solving abilities for tackling more advanced challenges.
 This project marks an exciting step in my journey toward mastering Python and pursuing deeper learning in the field of data science. 💡
 
-📂 Check out the project on GitHub: [Insert GitHub link here]
+📂 
 
 I’m eager to connect with others and explore new learning opportunities! Let’s grow together! 🌟
 
